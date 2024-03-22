@@ -3,8 +3,6 @@ package com.josevictorsales.course.entities;
 import java.io.Serializable;
 import java.time.Instant;
 
-import org.antlr.v4.runtime.atn.SemanticContext.OR;
-
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.josevictorsales.course.entities.enums.OrderStatus;
 
